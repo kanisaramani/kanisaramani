@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning bachlor in computer science
 - 💞️ I’m looking to collaborate on programmers
 - 📫 How to reach me kanisaramanik@gmail.com
-- 
+
 
 <!---
 kanisaramani/kanisaramani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
