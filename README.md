@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kanisaramani
-- 👀 I’m interested in playing with data
-- 🌱 I’m currently learning bachelor in computer science
-- 💞️ I’m looking to collaborate on programmers
-- 📫 How to reach me kanisaramanik@gmail.com
+- Hi, I’m @kanisaramani
+- I’m interested in playing with data
+- I’m currently pursuing a Master's in Data Analyst 
+- I’m looking to collaborate with programmers
+- How to reach me kanisaramanik@gmail.com
 
 
 <!---
